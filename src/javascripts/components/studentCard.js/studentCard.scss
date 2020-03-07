@@ -1,0 +1,11 @@
+.student-card {
+    width: 18%;
+    margin:1%;
+    .img-holder {
+        height: 250px;
+        overflow: hidden;
+        img{
+            width:100%;
+        }
+    }
+}
